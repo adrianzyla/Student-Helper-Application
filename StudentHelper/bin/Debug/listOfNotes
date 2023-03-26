@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfNoteModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NoteModel>
+    <title>To-do list for today</title>
+    <note>Buy groceries
+Complete project proposal
+Schedule doctor's appointment
+Call mom
+Go for a jog</note>
+    <Title>To-do list for today</Title>
+    <Note>Buy groceries
+Complete project proposal
+Schedule doctor's appointment
+Call mom
+Go for a jog</Note>
+  </NoteModel>
+  <NoteModel>
+    <title>Meeting notes</title>
+    <note>Discussed budget for Q2
+Agreed on new marketing strategy
+Assigned tasks to team members
+Set deadline for project completion
+Next meeting scheduled for next week</note>
+    <Title>Meeting notes</Title>
+    <Note>Discussed budget for Q2
+Agreed on new marketing strategy
+Assigned tasks to team members
+Set deadline for project completion
+Next meeting scheduled for next week</Note>
+  </NoteModel>
+  <NoteModel>
+    <title>Ideas for weekend plans</title>
+    <note>Visit local museum
+Have a picnic in the park
+Go hiking in the mountains
+Watch a movie marathon
+Try out a new restaurant</note>
+    <Title>Ideas for weekend plans</Title>
+    <Note>Visit local museum
+Have a picnic in the park
+Go hiking in the mountains
+Watch a movie marathon
+Try out a new restaurant</Note>
+  </NoteModel>
+  <NoteModel>
+    <title>Workout Log</title>
+    <note>Monday: 30 min jog, 20 min yoga
+Tuesday: Rest day
+Wednesday: 45 min strength training
+Thursday: 20 min swim, 10 min stretching
+Friday: 60 min dance class</note>
+    <Title>Workout Log</Title>
+    <Note>Monday: 30 min jog, 20 min yoga
+Tuesday: Rest day
+Wednesday: 45 min strength training
+Thursday: 20 min swim, 10 min stretching
+Friday: 60 min dance class</Note>
+  </NoteModel>
+</ArrayOfNoteModel>
