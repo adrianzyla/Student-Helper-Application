@@ -12,7 +12,9 @@ Uruchamiając aplikacje pojawia nam się okno główne na którym w samym centru
 *	To Do List 
 *	Pomodoro Timer
 *	Notepad
-Wybierając którąś z nich przechodzimy do kolejnych okienek:
+Wybierając którąś z nich przechodzimy do kolejnych okienek.
+
+![image](https://user-images.githubusercontent.com/100830524/229370341-e5951d81-243e-41cc-9161-14fc1855a403.png)
 
 ## 📝 To-Do-Lista
 Lista, w której zapisujemy zadania do wykonania.
@@ -25,6 +27,8 @@ Gdy najedziemy na zadanie i klikniemy prawy przycisk myszy, wyświetli się nam 
 *	„Delete” – po jego kliknięciu wyświetli się okienko z zapytaniem czy usunąć wybrane zadanie. Wybieramy „yes” albo „no” w zależności co chcemy zrobić.
 
 Na dole okna z listą zadań, obok przycisku „ADD” mamy przycisk z opcją, jeżeli będzie ona zaznaczona, wtedy na liście będą wyświetlać się zadania wykonane jak również te, które jeszcze nie są zrobione. Natomiast gdy odznaczymy tą opcję, wtedy wyświetlają się tylko niewykonane zadania.
+
+![To-Do-List-gif-min](https://user-images.githubusercontent.com/100830524/229374813-cf089023-781b-4bf3-bdfe-740c53f84e99.gif)
 
 ## ⏱️ Czasomierz Pomodoro
 To narzędzie do zarządzania czasem, oparte na metodzie Pomodoro. Polega ona na dzieleniu czasu pracy na krótkie interwały (zwykle 25 minut), po których następuje krótka przerwa (ok. 5 minut), a następnie po trzech takich obwodach następuje dłuższa przerwa. Metoda ta pomaga skupić się na zadaniu przez krótki czas, a następnie odpocząć przed kontynuowaniem pracy co wpływa na wydajność naszej pracy.
