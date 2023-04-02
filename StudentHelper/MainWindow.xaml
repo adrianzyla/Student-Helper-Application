@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StudentHelper"
         mc:Ignorable="d"
-        Title="MainWindow" Height="380" Width="800" Background="#7FCE7F"
+        Title="Student Helper Application" Height="380" Width="800" Background="#7FCE7F"
         Icon="assets/ikona_aplikacji.png">
     <StackPanel VerticalAlignment="Center" Background="#7FCE7F">
         <StackPanel VerticalAlignment="Center">

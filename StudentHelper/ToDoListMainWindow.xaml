@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StudentHelper"
         mc:Ignorable="d"
-        Title="ToDoLisitMainWindow" Height="400"
+        Title="To-Do-List" Height="400"
         Width="400"
         ResizeMode="NoResize"
         Background="#7FCE7F"

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StudentHelper"
         mc:Ignorable="d"
-        Title="PomodoroMainWindow" Height="470" Width="850"
+        Title="Pomodoro Timer" Height="470" Width="850"
         Icon="assets/ikona_aplikacji.png"
         Closing="PomodoroMainWindow_Closing">
     <StackPanel Background="#7FCE7F" x:Name="MainStackPanel" >

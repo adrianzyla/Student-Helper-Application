@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StudentHelper"
         mc:Ignorable="d"
-        Title="SettingsWindow" Height="290" Width="400"
+        Title="Settings" Height="290" Width="400"
         Icon="assets/ikona_aplikacji.png">
     <StackPanel  Background="#7FCE7F">
         <TextBlock Margin="0 20 0 0" FontFamily="Montserrat Bold" Width="300" TextAlignment="Center" Text="SET POMODORO TIME:" />

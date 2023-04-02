@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StudentHelper"
         mc:Ignorable="d"
-        Title="NotepadMainWindow" Height="450" Width="800"
+        Title="Notepad" Height="450" Width="800"
         Background="#7FCE7F"
         ResizeMode="CanResizeWithGrip"
         Icon="assets/ikona_aplikacji.png" Closing="Window_Closing">

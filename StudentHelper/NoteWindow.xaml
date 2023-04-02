@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StudentHelper"
         mc:Ignorable="d"
-        Title="NoteWindow" Height="450" Width="600"
+        Title="Note" Height="450" Width="600"
         Background="#7FCE7F"
         ResizeMode="CanResizeWithGrip"
         Icon="assets/ikona_aplikacji.png">
