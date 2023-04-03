@@ -86,7 +86,7 @@ namespace StudentHelper
             InitializeComponent();
             this.countdown = new Countdown();
             this.countdown.TickHappend += Countdown_TickHappend;
-            timerSound = new SoundPlayer("alm_RingTone.wav");
+            timerSound = new SoundPlayer("alm_RingTone.wav ");
 
             settingsWindow.SetDefaultSettings();
             settingsWindow.ReadXML();
