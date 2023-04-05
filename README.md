@@ -14,7 +14,10 @@ Uruchamiając aplikacje pojawia nam się okno główne na którym w samym centru
 *	Notepad
 Wybierając którąś z nich przechodzimy do kolejnych okienek.
 
-![image](https://user-images.githubusercontent.com/100830524/229370341-e5951d81-243e-41cc-9161-14fc1855a403.png)
+<div align="center">
+<img src = https://user-images.githubusercontent.com/100830524/229370341-e5951d81-243e-41cc-9161-14fc1855a403.png width="800"/>
+</div>
+
 
 ## 📝 To-Do-Lista
 Lista, w której zapisujemy zadania do wykonania.
@@ -48,12 +51,17 @@ Instrukcja użytkowania:
 *	LONG BREAK przechodzi do długiej przerwy.
 *	Ikona ustawień pozwala dostosować długość cyklu pomodoro, krótkiej i długiej przerwy. Akceptujemy ustawienia po naciśnięciu przycisku SAVE w oknie ustawień. 
 
-![pomodoro-timer-gif-min](https://user-images.githubusercontent.com/100830524/229569791-c55db6a9-c476-4678-8961-9087cbdf5981.gif)
+
+<div align="center">
+<img src = https://user-images.githubusercontent.com/100830524/229569791-c55db6a9-c476-4678-8961-9087cbdf5981.gif alt="animated"/>
+</div>
 
 ## 📓 Notatnik
 Narzędzie umożliwia tworzenie własnych notatek. Notatka posiada tytuł i treść, zapisywana jest w liście (notesie), która automatycznie jest sortowana alfabetycznie po tytule, dzięki czemu łatwiej jest znaleźć daną notatkę. 
 
 W głównym oknie możemy dodać notatkę za pomocą przycisku “ADD”. Po wpisaniu tytułu oraz treści i kliknięciu przycisku “SAVE” notatka dodaje się i wyświetla na liście.  Jeżeli użytkownik nie poda tytułu lub treści notatki, to wyświetla się komunikat, że wartości te nie mogą być puste. Aby wyświetlić notatkę należy wybrać element z listy, co sprawia, że jej treść pojawia się w oknie głównym. Aby edytować notatkę należy wybrać element z listy i nacisnąć przycisk “EDIT”, a następnie postępować jak w przypadku dodawania notatki. Aplikacja umożliwia również usuwanie notatek za pomocą przycisku “DELETE”. 
 
-![notebook-final-video-min](https://user-images.githubusercontent.com/100830524/229576716-fa6d1e19-3ca4-4935-9c1f-281f17364ff9.gif)
+<div align="center">
+<img src = https://user-images.githubusercontent.com/100830524/229576716-fa6d1e19-3ca4-4935-9c1f-281f17364ff9.gif alt="animated"/>
+</div>
 
