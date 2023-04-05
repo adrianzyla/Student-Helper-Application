@@ -9,9 +9,10 @@ Aplikacja Student Helper jest prostym i intuicyjnym narzędziem, które pomaga w
 
 ## Strona główna
 Uruchamiając aplikacje pojawia nam się okno główne na którym w samym centrum wyświetla nam się motywujący cytat, który za każdym razem jest inny. Zaraz pod nim znajdują się trzy przyciski, każdy z nich ma krótką notatkę pod sobą oraz nawiązuje do innej części aplikacji:
-*	To Do List 
-*	Pomodoro Timer
-*	Notepad
+* [To Do List](#to-do-list)
+* [Pomodoro Timer](#pomodoro)
+* [Notepad](#notepad)
+
 Wybierając którąś z nich przechodzimy do kolejnych okienek.
 
 <div align="center">
@@ -19,7 +20,7 @@ Wybierając którąś z nich przechodzimy do kolejnych okienek.
 </div>
 
 
-## 📝 To-Do-Lista
+## 📝 To-Do-Lista <a name="to-do-list"></a>
 Lista, w której zapisujemy zadania do wykonania.
 
 Klikając przycisk „To Do List” otwiera się okienko, gdzie możemy dodawać zadania do wykonania. Na dole okienka wpisujemy treść zadania i możemy je dodać klikając przycisk „ADD” albo klawisz „Enter”. Na środku wyświetli się lista z dodanymi zadaniami. 
@@ -35,7 +36,7 @@ Na dole okna z listą zadań, obok przycisku „ADD” mamy przycisk z opcją, j
 <img src = https://user-images.githubusercontent.com/100830524/229374813-cf089023-781b-4bf3-bdfe-740c53f84e99.gif alt="animated"/>
 </div>
 
-## ⏱️ Czasomierz Pomodoro
+## ⏱️ Czasomierz Pomodoro <a name="pomodoro"></a>
 To narzędzie do zarządzania czasem, oparte na metodzie Pomodoro. Polega ona na dzieleniu czasu pracy na krótkie interwały (zwykle 25 minut), po których następuje krótka przerwa (ok. 5 minut), a następnie po trzech takich obwodach następuje dłuższa przerwa. Metoda ta pomaga skupić się na zadaniu przez krótki czas, a następnie odpocząć przed kontynuowaniem pracy co wpływa na wydajność naszej pracy.
 
 Aplikacja Pomodoro pozwala użytkownikowi dostosować w ustawieniach długość interwałów pracy oraz przerw, dodatkowo automatycznie monitoruje ilość cyklów pomodoro, krótkich i długich przerw.  Co więcej, po każdym skończonym cyklu użytkownik jest powiadamiany dźwiękowo o skończeniu odliczania przez czasomierz.
@@ -57,7 +58,7 @@ Instrukcja użytkowania:
 <img src = https://user-images.githubusercontent.com/100830524/229569791-c55db6a9-c476-4678-8961-9087cbdf5981.gif alt="animated"/>
 </div>
 
-## 📓 Notatnik
+## 📓 Notatnik <a name="notepad"></a>
 Narzędzie umożliwia tworzenie własnych notatek. Notatka posiada tytuł i treść, zapisywana jest w liście (notesie), która automatycznie jest sortowana alfabetycznie po tytule, dzięki czemu łatwiej jest znaleźć daną notatkę. 
 
 W głównym oknie możemy dodać notatkę za pomocą przycisku “ADD”. Po wpisaniu tytułu oraz treści i kliknięciu przycisku “SAVE” notatka dodaje się i wyświetla na liście.  Jeżeli użytkownik nie poda tytułu lub treści notatki, to wyświetla się komunikat, że wartości te nie mogą być puste. Aby wyświetlić notatkę należy wybrać element z listy, co sprawia, że jej treść pojawia się w oknie głównym. Aby edytować notatkę należy wybrać element z listy i nacisnąć przycisk “EDIT”, a następnie postępować jak w przypadku dodawania notatki. Aplikacja umożliwia również usuwanie notatek za pomocą przycisku “DELETE”. 
