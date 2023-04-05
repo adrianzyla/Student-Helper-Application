@@ -28,8 +28,9 @@ Gdy najedziemy na zadanie i klikniemy prawy przycisk myszy, wyświetli się nam 
 
 Na dole okna z listą zadań, obok przycisku „ADD” mamy przycisk z opcją, jeżeli będzie ona zaznaczona, wtedy na liście będą wyświetlać się zadania wykonane jak również te, które jeszcze nie są zrobione. Natomiast gdy odznaczymy tą opcję, wtedy wyświetlają się tylko niewykonane zadania.
 
-![To-Do-List-gif-min](https://user-images.githubusercontent.com/100830524/229374813-cf089023-781b-4bf3-bdfe-740c53f84e99.gif)
-
+<div align="center">
+<img src = https://user-images.githubusercontent.com/100830524/229374813-cf089023-781b-4bf3-bdfe-740c53f84e99.gif alt="animated"/>
+</div>
 ## ⏱️ Czasomierz Pomodoro
 To narzędzie do zarządzania czasem, oparte na metodzie Pomodoro. Polega ona na dzieleniu czasu pracy na krótkie interwały (zwykle 25 minut), po których następuje krótka przerwa (ok. 5 minut), a następnie po trzech takich obwodach następuje dłuższa przerwa. Metoda ta pomaga skupić się na zadaniu przez krótki czas, a następnie odpocząć przed kontynuowaniem pracy co wpływa na wydajność naszej pracy.
 
