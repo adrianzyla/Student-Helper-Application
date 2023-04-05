@@ -34,6 +34,7 @@ Na dole okna z listą zadań, obok przycisku „ADD” mamy przycisk z opcją, j
 <div align="center">
 <img src = https://user-images.githubusercontent.com/100830524/229374813-cf089023-781b-4bf3-bdfe-740c53f84e99.gif alt="animated"/>
 </div>
+
 ## ⏱️ Czasomierz Pomodoro
 To narzędzie do zarządzania czasem, oparte na metodzie Pomodoro. Polega ona na dzieleniu czasu pracy na krótkie interwały (zwykle 25 minut), po których następuje krótka przerwa (ok. 5 minut), a następnie po trzech takich obwodach następuje dłuższa przerwa. Metoda ta pomaga skupić się na zadaniu przez krótki czas, a następnie odpocząć przed kontynuowaniem pracy co wpływa na wydajność naszej pracy.
 
